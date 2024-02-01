@@ -6,10 +6,14 @@ This repository contains the code for a responsive website for a fictional Nike 
 
 
 # Technologies Used:
-# HTML5: Used for structuring the web pages.
-# CSS3: Employed for styling and layout purposes, including responsive design for various screen sizes.
-# Google Fonts: Imported for custom typography.
-# CDNJS: Linked for external resource management.
+# HTML5: 
+Used for structuring the web pages.
+# CSS3: 
+Employed for styling and layout purposes, including responsive design for various screen sizes.
+# Google Fonts: 
+Imported for custom typography.
+# CDNJS: 
+Linked for external resource management.
 
 
 Feel free to explore the codebase and contribute to enhancing the website's features and design.
